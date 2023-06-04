@@ -74,12 +74,12 @@ body * {
     left: 0;
     transform: translateY(-50%);
 
-    animation: slide-out .4s forwards;
+    animation: slide-out .2s forwards;
 }
 
 
 .light #switch button {
-    animation: slide-in .4s forwards;
+    animation: slide-in .2s forwards;
 }
 
 #switch span {
